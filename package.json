@@ -12,6 +12,10 @@
     "mkdirp": "^0.5.1",
     "rimraf": "^2.4.3"
   },
+  "dependencies": {
+    "is-stream": "^1.0.1",
+    "slang": ">=0.2"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/harsh049/wkhtmltopdf.git"
